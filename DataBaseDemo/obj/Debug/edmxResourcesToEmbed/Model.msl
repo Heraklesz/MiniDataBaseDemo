@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DataBaseMiniDemoModelStoreContainer" CdmEntityContainer="CarsDbContext">
+    <EntitySetMapping Name="Cars">
+      <EntityTypeMapping TypeName="DataBaseMiniDemoModel.Car">
+        <MappingFragment StoreEntitySet="Cars">
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="RegisteredNumber" ColumnName="RegisteredNumber" />
+          <ScalarProperty Name="Colour" ColumnName="Colour" />
+          <ScalarProperty Name="DriverName" ColumnName="DriverName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

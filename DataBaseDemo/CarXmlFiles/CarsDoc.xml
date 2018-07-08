@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cars>
+  <Car Type ="Honda" RegisteredNumber = "JKL123" Color ="Blue" DriverName ="NagyJanos"/>
+  <Car Type ="Ferrari" RegisteredNumber = "ADS333" Color ="Red" DriverName ="KissGabor"/>
+  <Car Type ="Suzuki" RegisteredNumber = "JMN567" Color ="Blue" DriverName ="UrbanJozsef"/>
+  <Car Type ="Toyota" RegisteredNumber = "MMN982" Color ="Grey" DriverName ="NagyKrisztina"/>
+  <Car Type ="Honda" RegisteredNumber = "ERR404" Color ="Green" DriverName ="KovacsIlonka"/>
+  <Car Type ="Opel" RegisteredNumber = "JJS345" Color ="Blue" DriverName ="SzaboElemer"/>
+  <Car Type ="BMW" RegisteredNumber = "CVS619" Color ="Red" DriverName ="HorvathZsolt"/>
+  <Car Type ="Honda" RegisteredNumber = "JOL786" Color ="Black" DriverName ="NagyJanos"/>
+</Cars>

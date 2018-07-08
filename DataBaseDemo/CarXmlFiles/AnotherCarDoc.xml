@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cars>
+  <Car Type ="Toyota" RegisteredNumber = "HHE101" Color ="Blue" DriverName ="KissRezso"/>
+  <Car Type ="Opel" RegisteredNumber = "BBM222" Color ="Red" DriverName ="KissGabor"/>
+  <Car Type ="Suzuki" RegisteredNumber = "OOL115" Color ="Blue" DriverName ="TothEndre"/>
+  <Car Type ="Toyota" RegisteredNumber = "ASD999" Color ="Grey" DriverName ="SzaboIlonka"/>
+  <Car Type ="Honda" RegisteredNumber = "PPT555" Color ="Green" DriverName ="KovacsIlonka"/>
+  <Car Type ="Opel" RegisteredNumber = "JAM000" Color ="Blue" DriverName ="SzaboElemer"/>
+  <Car Type ="Audi" RegisteredNumber = "RRE777" Color ="Red" DriverName ="NemethDavid"/>
+  <Car Type ="Audi" RegisteredNumber = "POL107" Color ="Black" DriverName ="NagyJanos"/>
+</Cars>
